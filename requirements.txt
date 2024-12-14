@@ -1,0 +1,4 @@
+pinecone
+langchain_experimental
+langchain_openai
+langchain_pinecone==0.2.0
